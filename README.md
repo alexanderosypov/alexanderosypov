@@ -42,12 +42,10 @@ Developing and optimizing the C++ and Qt-based GUI of OpendTect to handle comple
 ---
 
 ### 📊 GitHub Metrics
-<!--
-<p align="center" style="display: inline-flex; justify-content: center; align-items: center; gap: 10px; width: 100%;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexanderosypov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Alexander's GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alexanderosypov&theme=tokyonight" alt="Alexander's Commit Streak" />
+
+<p align="center">
+  <img src="metrics.svg" alt="Alexander's GitHub Metrics" width="100%" />
 </p>
--->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/alexanderosypov/alexanderosypov/output/github-contribution-grid-snake-dark.svg" alt="Alexander's Contribution Snake Game" />
