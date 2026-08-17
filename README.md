@@ -22,17 +22,22 @@ I am a Software Developer and Data Scientist working at the intersection of soft
 
 ### Experience & Projects
 
-#### 🌍 [OpendTect Open-Source Contributions](https://github.com/OpendTect/OpendTect/commits/main/?author=alexanderosypov)
-Working on the core data onboarding workflows and visual utilities for the OpendTect C++ codebase.
-* **Data Import:** Developing and optimizing single/bulk import workflows for subsurface objects to handle large-scale geological datasets.
-* **Color Table Management:** Built import/export features for color tables and updated core features within the Color Table Manager for better data visualization control.
+#### 🌍 [dGB Earth Sciences | Software Developer](https://github.com/OpendTect/OpendTect/commits/main/?author=alexanderosypov)
+Developing and optimizing the C++ and Qt-based GUI of OpendTect to handle complex subsurface interpretation.
+* **Data Import & Workflows:** Developing and optimizing single/bulk import workflows for subsurface objects to handle large-scale geological datasets efficiently.
+* **Visualization & Core Enhancements:** Built import/export features for color tables, updated core features within the Color Table Manager, and engineered key system enhancements including visualization updates and bug fixes for domain window stability.
 
-#### 🏗️ AI PetroTech & ClearVision AI
-* Developed interface layers for drilling telemetry monitoring systems.
-* Apply machine learning pipelines to raw seismic datasets for asset optimization using Python.
+#### 🏗️ ClearVision AI | Product Lead (Freelance)
+* **Product Strategy & Interface Design:** Orchestrated product strategy and designed intuitive user interfaces for real-time drilling telemetry monitoring systems.
+* **Data & Machine Learning Pipelines:** Implemented advanced data analysis techniques and deployed robust machine learning pipelines in Python to extract actionable insights from raw seismic and drilling datasets for asset optimization.
 
-#### 📈 Business Analyst (FIS Consultant)
-* Managed environment test cycles, validated transactional system frameworks, and handled defect tracking parameters.
+#### 📈 FIS (Contract via LinkedIn) | Technical Business Analyst Consultant
+* **Requirements & Testing:** Mastered mainframe fundamentals, streamlined the management of enterprise environment test cycle calendars, collaborated with key stakeholders to elicit requirements, and validated transactional frameworks.
+* **Defect Management:** Optimized Jira workflows and spearheaded defect tracking to provide actionable reporting for enterprise leadership.
+
+#### ⚡ Aramco Services Company | Artificial Intelligence Summer Student Intern
+* **HPC & Cloud Environments:** Configured and optimized AWS HPC environments and Message Passing Interface (MPI) workflows to maximize computational performance.
+* **Digital Transformation:** Evaluated cloud infrastructure offerings from Google and AWS, conducting risk-benefit assessments to guide strategic digital transformation and deployment decisions.
 
 ---
 
