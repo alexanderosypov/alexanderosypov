@@ -44,7 +44,7 @@ Developing and optimizing the C++ and Qt-based GUI of OpendTect to handle comple
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="github-metrics.svg" alt="Alexander's GitHub Metrics" width="100%" />
+  <img src="github-metrics.svg" alt="Alexander's GitHub Metrics" width="60%" length="50% />
 </p>
 
 <p align="center">
